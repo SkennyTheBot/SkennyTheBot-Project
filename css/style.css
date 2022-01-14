@@ -7,13 +7,6 @@
   width: auto;
 }
 
-body {
-  border-top: solid 5px red
-  border-left: solid 5px cyan
-  border-bottom: solid 5px red
-  border-right: solid 5px cyan
-}
-
 .full-screen{
   width: 100%;
   height: 100vh;
@@ -21,6 +14,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-top: solid 5px red
+  border-left: solid 5px cyan
+  border-bottom: solid 5px red
+  border-right: solid 5px cyan
 }
 
 .full-screen video{
@@ -31,5 +28,9 @@ body {
   height: 100%;
   object-fit: cover;
   z-index: -1;
+  border-top: solid 5px red
+  border-left: solid 5px cyan
+  border-bottom: solid 5px red
+  border-right: solid 5px cyan
 }
 
