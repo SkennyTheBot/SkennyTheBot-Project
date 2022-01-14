@@ -14,7 +14,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: solid 5px red
 }
 
 .full-screen video{
@@ -25,6 +24,5 @@
   height: 100%;
   object-fit: cover;
   z-index: -1;
-  border: solid 5px red
 }
 
